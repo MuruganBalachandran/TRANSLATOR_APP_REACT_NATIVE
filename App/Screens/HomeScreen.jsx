@@ -19,7 +19,7 @@ export default function HomeScreen() {
 
     const getPrediction = async () => {
         try {
-            const response = await fetch('http://127.0.0.1:8081/translate', {
+            const response = await fetch('http://your-port/translate', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
