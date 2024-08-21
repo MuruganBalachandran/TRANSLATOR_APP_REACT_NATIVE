@@ -2,7 +2,6 @@
 
 ![TranslatorApp](https://github.com/user-attachments/assets/e4633e81-f413-4e54-99fc-efc8cc6b93bd)
 
-# Release apk
 
 
 # React Native
