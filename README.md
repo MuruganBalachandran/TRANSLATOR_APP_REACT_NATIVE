@@ -1,4 +1,6 @@
-# Translator App 
+
+# Translator App 2
+
 
 ![TranslatorApp](https://github.com/user-attachments/assets/e4633e81-f413-4e54-99fc-efc8cc6b93bd)
 
@@ -7,7 +9,7 @@
 # React Native v4
 This is a React Native project for a Translator app, developed using [`@react-native-community/cli`](https://github.com/react-native-community/cli). The app uses the Google Translator model, which is implemented in the `Backend` folder using Python and Flask.
 
-## Getting Started
+## Getting Started now
 
 > **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions up to the "Creating a new application" step before proceeding.
 
@@ -39,7 +41,7 @@ npm run android
 yarn android
 ```
 
-#### For iOS
+#### For iOS Apps
 
 ```bash
 # using npm
