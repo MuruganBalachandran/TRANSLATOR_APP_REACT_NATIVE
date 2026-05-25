@@ -5,7 +5,7 @@
 
 
 
-# React Native v4
+# React Native v2
 This is a React Native project for a Translator app, developed using [`@react-native-community/cli`](https://github.com/react-native-community/cli). The app uses the Google Translator model, which is implemented in the `Backend` folder using Python and Flask.
 
 ## Getting Started now
@@ -30,7 +30,7 @@ yarn start
 
 Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
 
-#### For Android
+#### For Android Apps
 
 ```bash
 # using npm
