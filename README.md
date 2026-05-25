@@ -4,7 +4,7 @@
 
 
 
-# React Native v3
+# React Native v4
 This is a React Native project for a Translator app, developed using [`@react-native-community/cli`](https://github.com/react-native-community/cli). The app uses the Google Translator model, which is implemented in the `Backend` folder using Python and Flask.
 
 ## Getting Started
