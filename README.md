@@ -30,7 +30,7 @@ yarn start
 
 Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
 
-#### For Android Apps
+#### For Android dev
 
 ```bash
 # using npm
@@ -40,7 +40,7 @@ npm run android
 yarn android
 ```
 
-#### For iOS Apps
+#### For iOS dev
 
 ```bash
 # using npm
